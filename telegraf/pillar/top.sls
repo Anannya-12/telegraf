@@ -1,0 +1,3 @@
+base1:
+  "*":
+    - telegraf
